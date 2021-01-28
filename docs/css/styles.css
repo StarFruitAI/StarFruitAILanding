@@ -5582,6 +5582,14 @@ a.close.disabled {
   word-wrap: break-word;
   opacity: 0;
 }
+.itemsth {
+  margin-top: 0;
+  text-align: left;
+  text-align: start;
+  text-decoration: none;
+  list-style-type: none;
+  margin-left:30px;
+}
 .tooltip.show {
   opacity: 0.9;
 }
